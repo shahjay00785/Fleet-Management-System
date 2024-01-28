@@ -21,4 +21,5 @@
         <table>x_snc_flt_mgmt_vehicle</table>
         <ui_action/>
     </sys_ux_form_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=528cd78c447621107f44b50bda619955"/>
 </record_update>

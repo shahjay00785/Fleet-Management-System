@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list">
     <sys_ux_list action="INSERT_OR_UPDATE">
         <active>true</active>
-        <category display_value="Maint req">f643f3521b3819101363ff37dc4bcb77</category>
+        <category display_value="Maintance Request">f643f3521b3819101363ff37dc4bcb77</category>
         <columns>number,vehicle,short_description,state,assigned_to</columns>
         <condition table="x_snc_flt_mgmt_maint_req">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
